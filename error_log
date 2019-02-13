@@ -1,0 +1,17 @@
+[02-Nov-2017 11:46:51 Etc/GMT] PHP Notice:  Array to string conversion in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 101
+[02-Nov-2017 11:46:51 Etc/GMT] PHP Notice:  Array to string conversion in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 101
+[02-Nov-2017 11:46:51 Etc/GMT] PHP Notice:  Array to string conversion in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 101
+[02-Nov-2017 11:46:51 Etc/GMT] PHP Notice:  Array to string conversion in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 101
+[02-Nov-2017 11:46:51 Etc/GMT] PHP Notice:  Array to string conversion in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 101
+[02-Nov-2017 11:46:51 Etc/GMT] PHP Notice:  Array to string conversion in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 101
+[02-Nov-2017 11:46:51 Etc/GMT] PHP Notice:  Array to string conversion in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 101
+[02-Nov-2017 11:46:51 Etc/GMT] PHP Notice:  Array to string conversion in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 101
+[02-Nov-2017 11:46:51 Etc/GMT] PHP Notice:  Array to string conversion in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 101
+[02-Nov-2017 11:46:51 Etc/GMT] PHP Notice:  Array to string conversion in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 101
+[02-Nov-2017 11:46:51 Etc/GMT] PHP Notice:  Array to string conversion in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 101
+[02-Nov-2017 11:46:51 Etc/GMT] PHP Notice:  Array to string conversion in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 101
+[06-Nov-2017 11:39:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 110
+[06-Nov-2017 11:39:43 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 110
+[06-Nov-2017 11:39:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 110
+[06-Nov-2017 11:44:06 Etc/GMT] PHP Warning:  move_uploaded_file(uploads/nLCoyMb.jpg): failed to open stream: No such file or directory in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 114
+[06-Nov-2017 11:44:06 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9gyVfM' to 'uploads/nLCoyMb.jpg' in /home/codemunk/public_html/savindersingh.me/demo/ocere/signup.php on line 114
